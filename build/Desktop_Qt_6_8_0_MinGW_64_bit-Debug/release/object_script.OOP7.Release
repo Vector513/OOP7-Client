@@ -1,0 +1,10 @@
+release/application.o
+release/complex.o
+release/main.o
+release/mainwindow.o
+release/tcpClient.o
+release/tcpServer.o
+release/moc_application.o
+release/moc_mainwindow.o
+release/moc_tcpClient.o
+release/moc_tcpServer.o

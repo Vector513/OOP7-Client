@@ -1,0 +1,10 @@
+debug/application.o
+debug/complex.o
+debug/main.o
+debug/mainwindow.o
+debug/tcpClient.o
+debug/tcpServer.o
+debug/moc_application.o
+debug/moc_mainwindow.o
+debug/moc_tcpClient.o
+debug/moc_tcpServer.o
